@@ -81,9 +81,17 @@ When a jumper has 0JP left they are considered **exhausted**. When a character i
 
 ## Paradox
 
-Every character has a 12 segment long **Paradox Track** on their character sheet. Taking points of **paradox** occurs when you take actions which appear to risk altering the known past. For every point of paradox you gain you will record an item in your **destiny** which specifies how the paradox can be removed. When the destiny item is fulfilled you lose a number of points of paradox equal to the number you gained when it was created.
+Every character has a 9 segment long **Paradox Track** on their character sheet. Taking points of **paradox** occurs when you take actions which appear to risk altering the known past. For every point of paradox you gain you will record an item in your **destiny** which specifies how the paradox can be removed. When the destiny item is fulfilled you lose a number of points of paradox equal to the number you gained when it was created.
 
-**ADD DETAILS ON EFFECTS OF HIGH PARADOX**
+When the paradox track fills up mark a single point of **distortion** instead. Unlike paradox distortion cannot be removed at all easily, and has permanent lasting effects. You are no longer completely in sync with the flow of time.
+
+Whenever you mark a point of **distortion** take a new condition from the following list:
+
+* **Translucent** -- you do not appear wholy there to the naked eye
+* **Delayed** -- there is a subtle timing difference between your actions and their effects
+* **Delocalised** -- you no longer have a single location in space, but seem to occupy several
+* **Repetative** -- you are prone to repeating the same phrases or actions over and over
+* **Ephemeral** -- you can no longer easily interract with physical objects
 
 ### Entanglement
 
@@ -95,11 +103,11 @@ See **time combat** later for more details.
 
 There are a number of actions which jumpers may take which interact with space-time. Each of these actions is described below:
 
-### Jump Across / Jump Spatially (0JP, 0P)
+### Jump Across / Jump Spatially (0JP)
 
 Any jumper may at any time choose to *jump spatially*. This means altering their position in space without altering their position in time. Essentially instantaneous teleportation. Each PC has a specific spacial distance limit to how far they can jump in a single jump (for starting characters this is 2km). Such a jump usually costs no jump points.
 
-### Jump Forward / Jump Ahead (1+JP, 0P)
+### Jump Forward / Jump Ahead (1+JP)
 
 Any jumper may at any point choose to *jump forward*. This means moving their position in time towards the future. Each character will have a specified *jump duration* on their character sheet which specifies the maximum temporaral distance which can be covered with a single JP (for starting characters this is 1 week).
 
@@ -109,7 +117,7 @@ Eg. Hans is located in an office of the *Museu Nacional* in Rio de Janeiro at 20
 
 Eg. Haruhi has lost sight of her quarry, the thief Zara she has been tracking across London. It is 1998-12-08 15:23:18Z and she knows she's going to need more information to work out where the girl went between now and New Year's Eve, when a witness saw her at a party in Battersea making out with an unknown young woman. Deciding to take a different tack she jumps ahead to just outside the front door of the flat at which the party occurs at 1998-12-31 23:50:14Z; That's a jump of between 3 and 4 weeks (3 weeks, 2 days, 8 hours, 26 minutes, and 56 seconds to be precise, but her player doesn't need to work that out), spending 4JP for the jump she marks her departure and arrival in her logbook. She's now ready to talk her way into the party and see if she can convince the girl to give her some clues.
 
-### Jump Backward / Jump Back (1+JP, 0P)
+### Jump Backward / Jump Back (1+JP)
 
 Any jumper may at any point choose to *jump backward*. This means moving their position in time towards the past. Each character will have a specified *jump duration* on their character sheet which specifies the maximum temporaral distance which can be covered with a single JP (for starting characters this is 1 week).
 
@@ -119,7 +127,7 @@ Eg. Hans is in danger from the encroaching flames! He skips back another hour, t
 
 Eg. At 1999-01-01 02:55:18 Haruhi leaves the flat having spent several hours in Zara's company. She makes a personal note to call her next time she's in early January 1999. This isn't a destined event, though, just a thing she intends to do, so it doesn't need to be recorded in her destiny. Zara was bragging about getting a big payout from selling something to a fence in Wandsworth on Christmas Eve. Now Haruhi knows the fence in question, and decides to pay him a visit just after Zara left him (Zara didn't know her until New Year's Eve, meeting early could cause paradox), so she jumps back to his lockup on 1998-12-25 00:00:00Z, figuring he'll be at home for Christmas. This costs 2JP. Unfortunately she was wrong about the whereabouts of the Fence ...
 
-### Longjump (50JP, 0P)
+### Longjump (50JP)
 
 For an entire 50JP a jumper may jump either forward or back by their listed **longjump duration**. For starting characters that's 1 year. Since this always uses up 50JP it leaves the jumper **exhausted**.
 
@@ -129,7 +137,23 @@ When a character is in a safe location and a stable position then they may choos
 
 This action can be **interrupted** if someone takes actions targetting the character during the period when they are resting, in this case move the character forward only to the point of interruption and record that moment as your arrival in the logbook. Interrupted recharging does not usually restore JP, though at GM's discretion it may be permissible to resume the recharge after the interruption and get the full effect.
 
-This action cannot be used if the character is currently **entangled**. 
+This action cannot be used if the character is currently **entangled**.
+
+### Declare a Detail (1P)
+
+For a cost of 1 paradox a jumper may, at any time, declare a small detail to be true as long as it does not directly contradict established facts. When you do this mark a new entry in your **destiny** to arrange that the detail is true, this is the condition for removing the paradox.
+
+Eg. Haruhi needs to open a safe and remove the item inside then close the safe again during the small time frame between the fence leaving and him returning from the bathroom. To ensure she can do this as quickly as possible she spends 1 paradox to declare there is a piece of paper with the combination on it in the inside pocket of her jacket. To clear this paradox she's going to have to plant a copy of that note in her own pocket some time in her own personal past.
+
+### Declare a Beneficial Situation (2P)
+
+Just before a player makes an action roll they may declare a helpful situation which grants them +1d on the roll. This costs 2 paradox. Note down in your destiny that you must arrange this helpful situation at some point in your personal future, doing so is how you clear this paradox.
+
+### Avoid Consequences (6 - roll P)
+
+When a character is about to take a consquence of any sort the player can declare that they are avoiding it. For some consequences this will eliminate them entirely, for others this will reduce their severity by one level. In either case the player describes the circumstance which permits the avoidance and gets the benefit. Then they roll a pool of dice equal to their most apropriate attribute. Subtract the highest value of the roll from 6 to determine how much paradox is acrued.
+
+As usual you must then note the circumstance which allowed the avoidance, and note in your destiny that you must arrange this, which is how you will clear the paradox.
 
 ## Non-jumper Action
 
