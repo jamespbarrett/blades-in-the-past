@@ -1,52 +1,186 @@
+
 # The Basics
 
-## References
+## Touchstones
 
-This is based on the *Blades in the Dark* SRD and the 1999 RPG *CºNTINUUM: Roleplaying in the Yet*. A copy of both of those games will be helpful.
+* This is based on the *Blades in the Dark* SRD. Which is the distilled system from *Blades in the Dark* by John Harper. Most of the mechancs of this game derive from that game.
+* The main flavour and setting touchstone for this game is the 1999 RPG *CºNTINUUM: Roleplaying in the Yet* by Chris Adams, Dave Fooden, and Barbara Manui, which inspired the implied setting and some of the mechanics. Although very hard to obtain a copy in the current era it is highly recommended.
+* **Scum and Villainy** by Stras Acimovic and John LeBoeuf-Little is another game derived from the Forged in the Dark system, which has helped give ideas for how to adapt the system to a very different setting.
+* Additional inspiration was taken from **GURPS Time Travel** by Steve Jackson and John M. Ford.
+* Additional inspiration was also taken from **TIMEWATCH** by Kevin Kulp.
+
+## What is a Roleplaying Game
+
+This should probably not be your first Roleplaying Game. There are many games which are excellent for introducing new players, but this was not a design goal for this game. I would suggest that **Blades in the Dark** or **Scum and Villainy** would make better starting points.
+
+## Core Conceit
+
+You are a group of daring time travellers granted a level of initiation into the ranks of a time spanning society of time travellers. You each have been given the ability to travel through space-time *at will* with only a few limits. You can instantly and nearly effortlessly move from one moment to another without passing through the intervening space-time, and whilst there are limits to how much you can do this between rests they are fairly generous.
+
+Within the time travelling culture to which you have been inducted there are large fraternal societies dedicated to particular aims and goals when using these abilities, and your group are pledged to one of these fraternal orders. What you do with your time jumping capability will depend strongly on which of these you are pledged to.
+
+However, there is one unbreakable rule of time travel:
+
+**What has been seen to occur MUST occur**
+
+No matter how powerful and godlike you may feel your time jumping makes you it will always be impossible for you to change the known past. Changes can occur only in the places where the outcome is not known.
+
+
+But don't despair! The historical record is full of holes, and sometimes what you have seen happen is not what you *think* you have seen happen...
 
 ## Record Keeping
 
-This is a game of meticulous record keeping. Maybe not as much as *CºNTINUUM*, but still a lot more than *Blades in the Dark*. Players and GMs will be expected to keep track of events in both their Age (personal past) and Yet (personal future) and without this record-keeping the game can't really function.
+This is a game which involves more record keeping than most RPGs. Every effort has been made to simplify the record keeping and to keep it focused only on what matters, but this is not the kind of game where you can easily get away with playing fast and loose with the historical record.
 
-You need a record of every time you span, what time and location you moved to and how long you spent there. You also need a record of every event which you know will happen which hasn't yet occurred in your personal timeline.
+That's just the nature of maintaining continuity, and the GM especially is responsible for making sure continuity is preserved.
 
-Finally pay special attention to times you cross your own timeline. When you meet an older version of yourself you definitely need to record it. 
+That said, the game has been written to promote improvisation and avoid the need for detailed planning ahead. Its just that when you improvise, you need to record what you improvised.
 
 ## Game Structure
 
-Unlike in *Blades in the Dark* the structure can be more mixed up. In particular Downtime can occur in the middle of an Escapade. We still have the four core phases, but they don't have to all occur in the same order every time, as befits a game of time travel.
+This game has a strcture built around two phases of play:
+
+* **Free Play**: in which players roleplay their characters, the narrative is the strongest driver, and mechanics are use sparingly and as appropriate.
+* **Escapades**: in which play focuses in on the mechanical aspects of the game as the PCs attempt to achieve a specific goal and deel with complications which arise as a result.
+
+These two phases alternate, as we switch from free play to an escapade and then back to free play again.
+
+A third "pseudo-phase" exists, **Killing Time**, in which a slightly different set of mechanics are used to measure long term actions and projects which take extended periods of time to complete. But this is usually not an entire phase in of itself, rather characters can activate the killing time rules during Free Play and Escapades to engage in long term projects as needed. This is one of the advantages of being able to time travel.
+
+# The Mechanics of Space-Time Travel
+
+All PCs in this game are **jumpers**, people who have been given the ability to travel in space-time at will. What is more all PCs are, at least initially, inducted members in good standing of the overarching society of jumpers which maintains general control of jumpers within most of human space-time. Jumpers who are not members in good standing do exist, and occasionally even grant the gift of jumping to others without inducting them into the society. Such people are usually highly dangerous and do not handle their newfound gifts well.
+
+## Moments
+
+At every point in game-play every PC is located at a specified **moment** in space-time. Each moment consists of a time and a place. Usuaully specified with a date and a general location. There is no hard boundary to how large a moment is in both time and space, rather it is a game-play abstraction designed to make space-time travel easier to deal with. As a general rule of thumb two characters are occupying the same moment if they are able to easily interact with each other due to proximity in space at the same point in time.
+
+During an operations it's important to keep track of what moments every character has or will visit. It can be useful to have some file cards or pieces of paper aranged in a rough timeline on the table representing general periods of interest in the current timeline, and note down on them the times each character arrives and leaves them.
+
+For the purpose of this game all dates and times are identified in the following format:
+
+YYYY-MM-DD hh:mm:ssZ
+
+Where YYYY is the four-digit year, MM is the two digit month, DD is the two digit day, hh is the two digit hour in 24-hour clock, mm is the two digit minutes, and ss is the two digit seconds. The suffic Z means that this is in the UTC timezone, and in this text that timezone will generally be used for all times unless specified otherwise. It's usually a good idea to keep track of which timezone the majority of action in your game will take place in and use that.
+
+## Logbook
+
+Every character needs to maintain a logbook. This goes along with the character's character sheet. It contains two sections: one for recording events in your personal past, and one for recording your destiny.
+
+Events recorded in your personal past are marked with an arrival time, a spacial location, and a departure time, as well as a description of what was done. This can be thought of as being like a short simple diary entry. 
+
+
+
+## Jump Points
+
+Every jumper has 50 Jump Points which can be spent and regained performing the jumper actions listed below. In free play we usually don't track this closely but instead just allow jumping within the limits described below. During Escapades these Jump Points are a carefully managed resource, and one of the primary ones for the game.
+
+### Exhaustion
+
+When a jumper has 0JP left they are considered **exhausted**. When a character is exhausted all actions which would usually cost JP *even jumping spatially which costs 0JP* instead cause the character to take **harm**. The level of harm is equal to the cost in JP, with a minimum of level 1 harm.
+
+## Paradox
+
+Every character has a 12 segment long **Paradox Track** on their character sheet. Taking points of **paradox** occurs when you take actions which appear to risk altering the known past. For every point of paradox you gain you will record an item in your **destiny** which specifies how the paradox can be removed. When the destiny item is fulfilled you lose a number of points of paradox equal to the number you gained when it was created.
+
+**ADD DETAILS ON EFFECTS OF HIGH PARADOX**
+
+### Entanglement
+
+Some effects cause entanglment. When a character becomes entangled their ability to recharge spent JP is severely curtailed. The most common cause of entanglement is when one character takes an action to cause another to take paradox. At that point both characters become entangled. The entanglement ends when either one character has caused *two* points of paradox to another through direct actions, or when all but one character can no longer achieve their goals in this time region.
+
+See **time combat** later for more details.
+
+## Jumper Actions
+
+There are a number of actions which jumpers may take which interact with space-time. Each of these actions is described below:
+
+### Jump Across / Jump Spatially (0JP, 0P)
+
+Any jumper may at any time choose to *jump spatially*. This means altering their position in space without altering their position in time. Essentially instantaneous teleportation. Each PC has a specific spacial distance limit to how far they can jump in a single jump (for starting characters this is 2km). Such a jump usually costs no jump points.
+
+### Jump Forward / Jump Ahead (1+JP, 0P)
+
+Any jumper may at any point choose to *jump forward*. This means moving their position in time towards the future. Each character will have a specified *jump duration* on their character sheet which specifies the maximum temporaral distance which can be covered with a single JP (for starting characters this is 1 week).
+
+If the character is in a safe location and in stable position then they may spend more than one JP to cover a longer span of time. The cost is one additional JP per additional full *jump duration*.
+
+Eg. Hans is located in an office of the *Museu Nacional* in Rio de Janeiro at 2018-09-02 23:30:05Z (19:30:05 local), he realises that the part of the museum he is in is still too crowded for his purposes, so he jumps ahead by three hours to 2018-09-03 02:30:05Z (22:30:05 local) and spends 1JP, plus marks his departure and arrival times in his logbook, arriving just as the area he was planning to investigate is engulfed in flames...
+
+Eg. Haruhi has lost sight of her quarry, the thief Zara she has been tracking across London. It is 1998-12-08 15:23:18Z and she knows she's going to need more information to work out where the girl went between now and New Year's Eve, when a witness saw her at a party in Battersea making out with an unknown young woman. Deciding to take a different tack she jumps ahead to just outside the front door of the flat at which the party occurs at 1998-12-31 23:50:14Z; That's a jump of between 3 and 4 weeks (3 weeks, 2 days, 8 hours, 26 minutes, and 56 seconds to be precise, but her player doesn't need to work that out), spending 4JP for the jump she marks her departure and arrival in her logbook. She's now ready to talk her way into the party and see if she can convince the girl to give her some clues.
+
+### Jump Backward / Jump Back (1+JP, 0P)
+
+Any jumper may at any point choose to *jump backward*. This means moving their position in time towards the past. Each character will have a specified *jump duration* on their character sheet which specifies the maximum temporaral distance which can be covered with a single JP (for starting characters this is 1 week).
+
+If the character is in a safe location and in stable position then they may spend more than one JP to cover a longer span of time. The cost is one additional JP per additional full *jump duration*.
+
+Eg. Hans is in danger from the encroaching flames! He skips back another hour, to 2018-09-03 01:30:05Z (21:30:05 local), spends 1JP, logs his departure and arrival, and finds himself staring at the back of a researcher who is desperately grabbing papers from the office before leaving. This is not going according to plan!
+
+Eg. At 1999-01-01 02:55:18 Haruhi leaves the flat having spent several hours in Zara's company. She makes a personal note to call her next time she's in early January 1999. This isn't a destined event, though, just a thing she intends to do, so it doesn't need to be recorded in her destiny. Zara was bragging about getting a big payout from selling something to a fence in Wandsworth on Christmas Eve. Now Haruhi knows the fence in question, and decides to pay him a visit just after Zara left him (Zara didn't know her until New Year's Eve, meeting early could cause paradox), so she jumps back to his lockup on 1998-12-25 00:00:00Z, figuring he'll be at home for Christmas. This costs 2JP. Unfortunately she was wrong about the whereabouts of the Fence ...
+
+### Longjump (50JP, 0P)
+
+For an entire 50JP a jumper may jump either forward or back by their listed **longjump duration**. For starting characters that's 1 year. Since this always uses up 50JP it leaves the jumper **exhausted**.
+
+### Recharge (restores JP, can be interrupted, not whilst entangled)
+
+When a character is in a safe location and a stable position then they may choose to recharge. This involves spending at least eight hours sleeping or otherwise fully resting. Move the character 8 hours forward at no cost and restore any spent JP. Record departure and arrival as you would for a jump, but note it was for recharging.
+
+This action can be **interrupted** if someone takes actions targetting the character during the period when they are resting, in this case move the character forward only to the point of interruption and record that moment as your arrival in the logbook. Interrupted recharging does not usually restore JP, though at GM's discretion it may be permissible to resume the recharge after the interruption and get the full effect.
+
+This action cannot be used if the character is currently **entangled**. 
+
+## Non-jumper Action
+
+In addition to jumper actions there is one time-travel action which *any* character can take, including non-jumpers:
+
+### Killing Time (can be interrupted)
+
+At any moment any character may choose to move themselves any duration forwards (and only forwards, you can't kill time backwards). This is done by *living sequentially without jumping*. This is the only time travel action non-jumpers can take, and they take it constantly.
+
+When you kill time record it in your logbook just as you would for a jump departure. If you aren't **interrupted** then also record your arrival at the end of the duration, if you are interrupted record your arrival at the moment of interruption. Regardless of whether you were interrupted increase your age by the time between your departure and arrival, rounded down to a number of whole weeks.
+
+Killing time is an essential mechanic in this game because when you kill time you enter **downtime**, and may perform **downtime actions** using the systems described in the **downtime** section.
+
+## Special Jumping situations
+
+* Strong electromagnetic of gravitational fields cost extra JP to cross, how many will vary on the strength of the field
+* Strong radiation environments can have similar effects, and may even cause additional points of paradox.
+* Some regions of space-time are so full of crossing worldlines from jumpers that they impose additional difficulties to jumping. The details of this are up to the GM, but usually involve added JP cost, and occasionally paradox or harm as well. These regions are very rare, and the GM should use them sparingly. Much more common, though still rare, are regions where entering causes *entanglement* in an ongoing temporal conflict.
+
 
 # Actions, Atributes, and Skills
 
 ## Action Ratings
 
-There are 12 **actions** in the game that the player characters use to overcome obstacles, divided between the three **attributes**.
+There are 12 **actions** in the game that the player characters use to overcome obstacles, each is associated with one of the three **atributes**:
 
 * **Body**
-    * Hunt
-    * Prowl
-    * Skirmish
-    * Wreck
+  * **Drive**
+  * **Fight**
+  * **Run**
+  * **Sneek**
 * **Mind**
-    * Command
-    * Study
-    * Survey
-    * Tinker
-* **Quick**
-    * Attune
-    * Consort
-    * Finesse
-    * Sway
+  * **Finesse**
+  * **Understand**
+  * **Study**
+  * **Tinker**
+* **Self**
+  * **Attune**
+  * **Command**
+  * **Consort**
+  * **Sway**
 
 Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don't represent skill or training, but more of a general aptitude for an entire range of skills. 
 
-There are three **attributes** in the game system that the player characters use to resist bad consequences: **Body**, **Mind**, and **Quick**. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
+There are three **attributes** in the game system that the player characters use to resist bad consequences: **Body**, **Mind**, and **Self**. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The value of each attribute is the number of action ratings for that attribute which are non-zero.
 
 ## Skills
 
-As well as **attributes** and **actions** every character has a list of **skills**. Skills are much more specific than actions, a character might have a rating of 2 in Tinker, but that doesn't make them equally adept at tinkering with all possible devices throughout space an time. A skill is an individual speciality which a PC has studied enough to use their actions to full effect with that thing.
+As well as **attributes** and **actions** every character has a list of **skills**. Skills are much more specific than actions, a character might have a rating of 2 in Tinker, but that doesn't make them equally adept at tinkering with all possible devices throughout space-time. A skill is an individual speciality which a PC has studied enough to use their actions to full effect with that thing.
 
 Some example skills might include:
 * Internal Combustion Engine Motorcars
@@ -65,59 +199,4 @@ A character begins play with 7 skills, but picking up more in play is extremely 
 **When you attempt to take an action which requires a skill you don't have at all you position is automatically desperate and your effect cannot be more than limited**
 
 **When you attempt to take an action where you have a similar but not perfect skill the GM can choose whether to restrict you to desperate position or limited effect, but perhaps not both**
-
-
-# Corner
-
-1. Pick a Corner type -- start with Span 1, Kudos 2
-2. Pick a locality -- the time and place where your Corner operate
-3. Choose a Special Ability -- there's a list for your Corner type
-4. Assign Corner Upgrades -- There is a list of upgrades for the corner, you get 1 pre-selected and can choose two more
-5. You also get one Cornerhouse upgrade assigned for free
-6. Choose your Mentor -- every corner has a Mentor who supervises the members
-
-## Antiquarians
-
-**Seakers of Artifacts**
-
-Your Corner is connected to the antiquarian fraternity. You may not all be actual inducted members yet, but the corner as a whole leans that way, and your Mentor is almost certainly a member in good standing. 
-
-Your corner collects historical artifacts. Unique and important items. Some of them are made of gold and covered in precious gems, but many are not, the importance is how much they matter to history. And such items usually have well documented histories. Which makes acquiring them tricky. You can't just span to a time and place where they were located and then steal them: that's a great way to Frag your entire Corner!
-
-To do it properly you need to work out somewhere the artifact won't be missed from: gaps in their history, points just before destruction, or times to which they can be returned near instantaneously after being taken. 
-
-*As Antiquarians mark Corner XP every time you execute a successful Burglary, Acquisition, or Purchase*
-
-### Starting Upgrades
-
-- [x] **Training:** Mind
-- [x] **Cornerhouse:** Secure
-
-### Corner Upgrades
-
-- [ ] **Electromagnetic Webbing**: You have access to a piece of Aquarian era tech which can be placed over an inanimate object to make it easier to span with. Increase your effective Span by +1 for the purposes of determining weight carried when your entire cargo is covered in the webbing.
-- [ ] **Cooperative Transport**: When Spanning with inannimate objects multiple characters may combine their weight limits together if they are all spanning in unison
-- [ ] **Involved Elders**: Add an extra Gemini for every PC
-- [ ][ ][ ] **Grounded**: Each PC gets one extra Frag box (this upgrade costs 3 upgrades, not just 1)
-
-### Cornerhouse upgrades
-
-* [ ] **Detailed Floorplans**: You get +1d to the engagement roll for any operation which involves spanning into a non-public part of a building
-* [ ] **Contacts**: You get +1d to all Frune rolls in time combat
-* [ ] **Vault**: Your Cornerhouse is extremely secure against all kinds of intrusion
-* [ ] **Costumary**: You can always gain +1d to any action to blend in with a particular locality
-* [ ] **Cleanup**: You gain -2 heat per operation
-* [ ] [ ] **Services Rendered**: As a downtime action roll your Span, gain Kudos equal to the highest result minus your Heat
-* [ ] **Secondary Safehouse**: Pick a second locality, you have a small outpost cornerhouse there. This provides +1d to rolls to hide during time combat
-* [ ] **Museum Specialist**: Gain +2 Kudos for any operation involving taking an artifact from a museum
-* [ ] **Exact Duplicate**: As a downtime action create an exact duplicate of any item you have access to. This is not an elder or junior of the item, it is just a perfectly crafted duplicate made from correct period materials
-* [ ] [ ] [ ] [ ] **Artefact**: You have between 1 and 4 historically important artifacts on show for other Antiquarian visitors to marvel at. 
-
-### Special Abilities
-
-* [ ] **Erudite**: Each PC gets +1 to one of **Study**, **Survey**, or **Attune**
-* [ ] **Packrats**: gain +1d to any roll to acquire a specific needed item or device
-* [ ] **Connected Mentor**: When you advance Span it costs half the Kudos it normally would
-* [ ] **We are allowed here**: Take -1 heat on any operation where you went somewhere you weren't supposed to
-* [ ] **The Great Switcheroo**: You never take Frag for mixinh up junior and elder versions of an item
 

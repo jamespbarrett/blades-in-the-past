@@ -101,3 +101,61 @@ Stress is replaced with Frag
 * XP might be completely gone. All advancement might be via downtime actions?
 * Record keeping for spans used and Yet to fulfill are very similar to CONTINUUM, but maybe a little streamlined?
 * Feels like the concepts are coming together a bit. Spanning and Killing Time are kind of our main core gameplay loop here.
+
+
+## Early drafts of content
+
+# Corner
+
+1. Pick a Corner type -- start with Span 1, Kudos 2
+2. Pick a locality -- the time and place where your Corner operate
+3. Choose a Special Ability -- there's a list for your Corner type
+4. Assign Corner Upgrades -- There is a list of upgrades for the corner, you get 1 pre-selected and can choose two more
+5. You also get one Cornerhouse upgrade assigned for free
+6. Choose your Mentor -- every corner has a Mentor who supervises the members
+
+## Antiquarians
+
+**Seakers of Artifacts**
+
+Your Corner is connected to the antiquarian fraternity. You may not all be actual inducted members yet, but the corner as a whole leans that way, and your Mentor is almost certainly a member in good standing. 
+
+Your corner collects historical artifacts. Unique and important items. Some of them are made of gold and covered in precious gems, but many are not, the importance is how much they matter to history. And such items usually have well documented histories. Which makes acquiring them tricky. You can't just span to a time and place where they were located and then steal them: that's a great way to Frag your entire Corner!
+
+To do it properly you need to work out somewhere the artifact won't be missed from: gaps in their history, points just before destruction, or times to which they can be returned near instantaneously after being taken. 
+
+*As Antiquarians mark Corner XP every time you execute a successful Burglary, Acquisition, or Purchase*
+
+### Starting Upgrades
+
+- [x] **Training:** Mind
+- [x] **Cornerhouse:** Secure
+
+### Corner Upgrades
+
+- [ ] **Electromagnetic Webbing**: You have access to a piece of Aquarian era tech which can be placed over an inanimate object to make it easier to span with. Increase your effective Span by +1 for the purposes of determining weight carried when your entire cargo is covered in the webbing.
+- [ ] **Cooperative Transport**: When Spanning with inannimate objects multiple characters may combine their weight limits together if they are all spanning in unison
+- [ ] **Involved Elders**: Add an extra Gemini for every PC
+- [ ][ ][ ] **Grounded**: Each PC gets one extra Frag box (this upgrade costs 3 upgrades, not just 1)
+
+### Cornerhouse upgrades
+
+* [ ] **Detailed Floorplans**: You get +1d to the engagement roll for any operation which involves spanning into a non-public part of a building
+* [ ] **Contacts**: You get +1d to all Frune rolls in time combat
+* [ ] **Vault**: Your Cornerhouse is extremely secure against all kinds of intrusion
+* [ ] **Costumary**: You can always gain +1d to any action to blend in with a particular locality
+* [ ] **Cleanup**: You gain -2 heat per operation
+* [ ] [ ] **Services Rendered**: As a downtime action roll your Span, gain Kudos equal to the highest result minus your Heat
+* [ ] **Secondary Safehouse**: Pick a second locality, you have a small outpost cornerhouse there. This provides +1d to rolls to hide during time combat
+* [ ] **Museum Specialist**: Gain +2 Kudos for any operation involving taking an artifact from a museum
+* [ ] **Exact Duplicate**: As a downtime action create an exact duplicate of any item you have access to. This is not an elder or junior of the item, it is just a perfectly crafted duplicate made from correct period materials
+* [ ] [ ] [ ] [ ] **Artefact**: You have between 1 and 4 historically important artifacts on show for other Antiquarian visitors to marvel at. 
+
+### Special Abilities
+
+* [ ] **Erudite**: Each PC gets +1 to one of **Study**, **Survey**, or **Attune**
+* [ ] **Packrats**: gain +1d to any roll to acquire a specific needed item or device
+* [ ] **Connected Mentor**: When you advance Span it costs half the Kudos it normally would
+* [ ] **We are allowed here**: Take -1 heat on any operation where you went somewhere you weren't supposed to
+* [ ] **The Great Switcheroo**: You never take Frag for mixinh up junior and elder versions of an item
+
