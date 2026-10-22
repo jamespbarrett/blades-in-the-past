@@ -509,3 +509,209 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 * **1-3**: It's the worst outcome. You suffer **severe harm**, a **serious complication** occurs, you **lose this opportunity** for action.
 
 ---
+
+## Double-duty Rolls
+
+Since NPCs don't roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it's a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
+
+# Effect
+
+In *Blades in the Past*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand -- **great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you're using a **progress clock**.
+
+| Effect Levels |                                                                                                                  | Ticks |
+| ------------: | :--------------------------------------------------------------------------------------------------------------- | :---: |
+|     **GREAT** | *You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy?*         |   3   |
+|  **STANDARD** | *You achieve what we'd expect as "normal" with this action. Is that enough, or is there more left to do?*        |   2   |
+|   **LIMITED** | *You achieve a partial or weak effect. How is your impact diminished? What effort remains to achieve your goal?* |   1   |
+
+## Assessing Factors
+
+To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
+
+### Potency
+
+The potency factor considers particular weaknesses, taking extra time or a bigger risk, or the influence of arcane powers. An infiltrator is more potent if all the lights are extinguished and they move about in the dark.
+
+### Quality/Tier
+
+Quality represents the effectiveness of tools, weapons, or other resources.
+
+### Scale
+
+Scale represents the number of opponents, size of an area covered, scope of influence, etc. Larger scale can be an advantage or disadvantage depending on the situation. In battle, more people are better. When infiltrating, more people are a hindrance.
+
+When considering factors, effect level might be reduced below limited, resulting in **zero effect**—or increased beyond great, resulting in an **extreme effect**.
+
+If a PC special ability gives "+1 effect," it comes into play *after* the GM has assessed the effect level.
+
+Also, remember that a jumper can get an **advantageous situation** (take 2 paradox) to get +1 effect on their action.
+
+Every factor won't always apply to every situation. You don't have to do an exact accounting every time, either. Use the factors to help you make a stronger judgment call—don't feel beholden to them.
+
+## Trading Position for Effect
+
+After factors are considered and the GM has announced the effect level, a player might want to trade position for effect, or vice versa. For instance, if they're going to make a risky roll with standard effect (the most common scenario, generally), they might instead want to push their luck and make a desperate roll but with great effect.
+
+This kind of trade-off isn't included in the effect factors because it's not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
+
+## Consequences
+
+When a PC suffers an effect from an enemy or a dangerous situation, it's called a **consequence**. Consequences are the companion to effects. PCs have effect on the world around them and they suffer consequences in return from the risks they face.
+
+# Setting Position & Effect
+
+The GM sets position and effect for an action roll at the same time, after the player says what they're doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
+
+The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
+
+# Consequences and Harm
+
+Enemy actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types.
+
+A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group.
+
+## Reduced Effect
+
+This consequence represents impaired performance. The PC's action isn't as effective as they'd anticipated. You hit him, but it's only a flesh wound. She accepts the forged invitation, but she'll keep her eye on you throughout the night. You're able to scale the wall, but it's slow going—you're only halfway up. This consequence essentially reduces the effect level of the PC's action by one after all other factors are accounted for.
+
+## Complication
+
+This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you're disarmed, the circle takes +1 **heat** from evidence or witnesses, the target evades you and now it's a chase, reinforcements arrive, etc.
+
+Or the GM might tick a clock for the complication, instead. Maybe there's a clock for the alert level of the guards at the museum. Or maybe the GM creates a new clock for the suspicion of the noble guests at the masquerade party and ticks it. Fill one tick on a clock for a minor complication or two ticks for a standard complication.
+
+A **serious complication** is more severe: reinforcements surround and trap you, the room catches fire and falling ceiling beams block the door, your weapon is broken, the circle suffers +2 **heat**, your target escapes out of sight, etc. Fill three ticks on a clock for a serious complication.
+
+**Don't inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a **4/5**, don't say that the enemy escapes. The player's roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
+
+## Lost Opportunity
+
+This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to **Fight** with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you'll have to try another way—maybe by **Swaying** her with your roguish charm.
+
+## Worse Position
+
+This consequence represents losing control of the situation—the action carries you into a more dangerous position. You haven't failed, but you haven't succeeded yet, either. You can try again, re-rolling at the new, worse position. This is a good consequence to choose to show escalating action. A situation might go from controlled, to risky, to desperate as the action plays out and the PC gets deeper and deeper in trouble.
+
+## Harm
+
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+
+Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have "Drained" and "Battered" harm in the bottom row, you'll suffer reduced effect when you try to run away from the constables. When you're impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can't do anything directly, but can still spend paradox to create advantageous situations, declare details, etc...
+
+If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you'd have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
+
+Remember you can almost always jump away before this happens. Lick your wound. Heal up. Come at it from another angle.
+
+---
+
+#### HARM
+
+| []() |                                                            |                |
+| :--: | :--------------------------------------------------------- | :------------: |
+|  3   | *Shattered Right Leg* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |   Need Help    |
+|  2   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| |      -1D       |
+|  1   | *Drained* &nbsp; \| &nbsp; *Battered*                      | Reduced Effect |
+
+*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
+
+---
+
+Also, recall that for any physical attack you can see coming you can reduce the severity by jumping away. That makes permanently incapacitating a jumper extremely difficult ... however also remember the effect this might have on **heat**.
+
+# Avoidance and Armour
+
+When your PC suffers a consequence that you don't like, you can choose to declare a situation which allows you to avoid it. Just tell the GM, "No, I don't think so. I'm avoiding that", and then explain what unexpected occurence protects you from the consequence. Avoidance is always automatically effective—the GM will tell you if the consequence is reduced in severity or if you avoid it entirely. Then, you'll make an **avoiance roll** to see how much paradox your character suffers as a result of their avoidance.
+
+You make the roll using one of your character's **attributes** (**Mind**, **Body**, or **Self**). The GM chooses the attribute, based on the nature of consequences:
+
+* **Mind**: Consequences from deception or understanding.
+* **Body**: Consequences from physical strain or injury.
+* **Self**: Consequences from mental strain or willpower.
+
+Your character suffers **6 paradox** when they avoid the consquence, **minus the highest die result from the avoidance roll**. So, if you rolled a **4**, you'd suffer 2 paradox. If you rolled a **6**, you'd suffer zero paradox. On a **critical** you also gain one **grace**. When you do this you need to note down in your **destiny** that you need to set up the situation which saved you ... only by doing so can you remove the paradox.
+
+Usually, an avoidance roll **reduces the severity** of a consequence. If you're going to suffer fatal harm, for example, an avoidance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the "Alert" clock, she'd only mark two (or maybe one) if you avoid the complication.
+
+**You may only roll against a given consequence once.**
+
+The GM also has the option to rule that your character **completely avoids** the consequence. For instance, maybe you're in a sword fight and the consequence is getting disarmed. When you avoid it, the GM says that you avoid that consequence completely: you keep hold of your weapon.
+
+**By adjusting which consequences are reduced vs. which are completely avoided, the GM establishes the overall tone of your game**. For a more daring game, most consequences will be completely avoided. For a grittier game, most consequences will only be reduced with avoidance.
+
+The GM may also threaten several consequences at once, then the player may choose which ones to avoid (and make rolls for each).
+
+Once you decide to avoid a consequence and roll, you suffer the paradox indicated. You can't roll first and see how much paradox you'll take, then decide whether or not to avoid it.
+
+---
+
+### AVOIDANCE ROLL
+
+&#x23E3; &nbsp; **1d** for each **Attribute** rating.
+
+You **reduce** or **entirely avoid** the effects of the consequence (GM chooses).
+
+**Suffer 6 **Paradox** minus the highest die result.**
+
+**Critical**: Gain 1 **Grace**
+
+---
+
+## Armour
+
+If you have a type of **armour** that applies to the situation, you can mark an armour box to reduce or avoid a consequence, instead of rolling to avoid.
+
+When an armour box is marked, it can't be used again until it's restored. All of your armour is restored when you declare your **prep** for the next escapade.
+
+## Death
+
+There are a couple ways for a PC to die:
+
+* If they suffer level 4 fatal harm and they don't avoid it, they die. *Sometimes this is a choice a player wants to make, because they feel like it wouldn't make sense for the character to survive or it seems right for their character to die here.*
+* If they need to record harm at level 3 and it's already filled, they suffer a catastrophic consequence, which might mean sudden death (depending on the circumstances).
+
+When your character dies, you have options:
+
+* You can create a new scoundrel to play. Maybe you "promote" one of the NPC gang members to a PC, or create a brand new character who joins the crew.
+
+## Destined Death
+
+As a last ditch option a character can avoid death by jumping out and having an older double jump in at the same moment. This places a destiny on the character to return to this exact moment at some point in their personal future and *die*. Activating this option costs no paradox immediately, but if the PC later experiences something which appears to make it impossible to do this then they will immediately receive 6 paradox which can only be cleared by fulfilling this destiny somehow.
+
+This option should always be by player choice, and never imposed by the GM.
+
+# Fortune Roll
+
+The fortune roll is a tool the GM can use to disclaim decision making. You use a fortune roll in two different ways:
+
+**When you need to make a determination about a situation the PCs aren't directly involved in** and don't want to simply decide the outcome.
+
+**When an outcome is uncertain**, but no other roll applies to the situation at hand.
+
+When you make a fortune roll you may assess **any trait rating** to determine the dice pool of the roll.
+
+* When a PC **gathers information**, you might make a fortune roll using their **action rating** to determine the amount of the info they get.
+
+If no trait applies, roll 1d for sheer luck or create a dice pool (from one to four) based on the situation at hand. If two parties are directly opposed, make a fortune roll for each side to see how they do, then assess the outcome of the situation by comparing their performance levels.
+
+The fortune roll is also a good tool to help the GM manage all the various moving parts of the world. Sometimes a quick roll is enough to answer a question or inspire an idea for what might happen next.
+
+---
+
+### FORTUNE ROLL
+
+&#x23E3; &nbsp; *1d* for each **Trait** rating.
+
+&#x2295; &nbsp; *+1d* for each **Major Advantage**.
+
+&#x2296; &nbsp; *-1d* for each **Major Disadvantage**.
+
+* **Critical**: Exceptional result / Great, extreme effect.
+* **6**: Good result / Standard,  full effect.
+* **4/5**: Mixed result / Limited, partial  effect.
+* **1-3**: Bad result / Poor, little effect.
+
+---
+
+# Gathering Information
+
+THIS NEEDS SERIOUS THOUGHT, GATHERING INFORMATION IS A VERY IMPORTANT PART OF THIS GAME
