@@ -99,6 +99,24 @@ Some effects cause entanglment. When a character becomes entangled their ability
 
 See **time combat** later for more details.
 
+## Initiation Rank
+
+Every society jumper has an initiation rank within the society. This determines the limits of their time jumping capabilities. It is widely suspected by more junior members that the limits imposed on them are actually enforced restrictions rather than limits in their actual ability to jump, but higher ranking jumpers refuse to comment.
+
+| Rank | Duration per JP | Longjump Duration | Distance  | Mass Limit |
+|------|-----------------|-------------------|-----------|------------|
+|   1  | 1 week          | 1 year            | 2 km      | 20 kg      |
+|   2  | 10 weeks        | 1 decade          | 20 km     | 200 kg     |
+|   3  | 2 years         | 1 century         | 200 km    | 2 tonnes   |
+|   4  | 2 decades       | 1 millenium       | 2,000 km  | 20 tonnes  |
+|   5  | 2 centuries     | 10 millenia       | 20,000 km | 200 tonnes |
+
+Ranks above 5 probably exist, but most jumpers will never knowlingly encounter someone with that level of initiation.
+
+It is worth noting that even with the limits shown above characters can cover large amounts of history if they choose to spend their own experienced time travelling. A longjump (described in more detail below) can be attempted roughly once per experienced day, so even a rank 1 character could cover over three centuries in a year if they really wanted to.
+
+It is also worth noting that a Rank 3 jumper can easily carry a group of other people with them when they jump, allowing them to ferry a group of lower rank jumpers to the time period they need to be at with minimal effort.
+
 ## Jumper Actions
 
 There are a number of actions which jumpers may take which interact with space-time. Each of these actions is described below:
@@ -139,11 +157,13 @@ This action can be **interrupted** if someone takes actions targetting the chara
 
 This action cannot be used if the character is currently **entangled**.
 
-### Declare a Detail (1P)
+### Declare a Detail (1+P)
 
 For a cost of 1 paradox a jumper may, at any time, declare a small detail to be true as long as it does not directly contradict established facts. When you do this mark a new entry in your **destiny** to arrange that the detail is true, this is the condition for removing the paradox.
 
 Eg. Haruhi needs to open a safe and remove the item inside then close the safe again during the small time frame between the fence leaving and him returning from the bathroom. To ensure she can do this as quickly as possible she spends 1 paradox to declare there is a piece of paper with the combination on it in the inside pocket of her jacket. To clear this paradox she's going to have to plant a copy of that note in her own pocket some time in her own personal past.
+
+Some details may occasionally cost more than 1 paradox if they seem like they would be especially complex to arrange.
 
 ### Declare a Beneficial Situation (2P)
 
@@ -154,6 +174,14 @@ Just before a player makes an action roll they may declare a helpful situation w
 When a character is about to take a consquence of any sort the player can declare that they are avoiding it. For some consequences this will eliminate them entirely, for others this will reduce their severity by one level. In either case the player describes the circumstance which permits the avoidance and gets the benefit. Then they roll a pool of dice equal to their most apropriate attribute. Subtract the highest value of the roll from 6 to determine how much paradox is acrued.
 
 As usual you must then note the circumstance which allowed the avoidance, and note in your destiny that you must arrange this, which is how you will clear the paradox.
+
+### Double Trick (1P, limit 2 per escapade unless upgrade permits more)
+
+An older version of yourself jumps into the current moment. This older self will act under the control of the GM, but the GM should take input from the player on what they would expect their older self to do in this situation.
+
+Note in your destiny that you must travel to this moment and take these actions.
+
+This can be a very dangerous choice, since it involves risking seeing your own future self suffer harm or other consequences, which you are then required to undergo if you ever want to clear your paradox.
 
 ## Non-jumper Action
 
