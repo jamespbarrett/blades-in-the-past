@@ -714,4 +714,82 @@ The fortune roll is also a good tool to help the GM manage all the various movin
 
 # Gathering Information
 
-THIS NEEDS SERIOUS THOUGHT, GATHERING INFORMATION IS A VERY IMPORTANT PART OF THIS GAME
+The flow of information from the GM to the players about the fictional world is very important in any roleplaying game and even more important in a game about time travel. Information management is a key part of play, to the extent that one of the character playbooks in this game is dedicated to it.
+
+By default, the GM tells the players what their characters perceive, suspect, and intuit. But there's just too much going on to say *everything*—it would take forever and be boring, too. What's more there's plenty of information which is not readily available by default, but which can be discovered through research. The players have a tool at their disposal to more fully investigate the fictional world.
+
+When you want to know something specific about the fictional world, your character can **gather information**. The GM will ask you **how** your character gathers the info.
+
+If it's common knowledge, the GM will simply answer your questions. If there's an obstacle to the discovery of the answer, an action roll is called for. If it's not common knowledge but there's no obstacle, a simple fortune roll determines the quality of the information you gather.
+
+There is a very important question which the GM must judge before every information gathering attempt: what time periods does this information source cover?
+
+Usually most information gathering can only provide information about the **absolute past**, but there is one exception: when the source of information has travelled in time. In that case only their **personal past** is covered.
+
+The most common gather information actions are **Understanding** the situation to reveal or anticipate what's going on, **Studying** records understand what has happened, and **Consorting** with people to extract rumours and personal details.
+
+Sometimes, you'll have to maneuver yourself into position before you can gather information. For example, you might have to **Sneak** into a building first and then **Study** the records you find there.
+
+
+## Investigation
+
+Some questions are too complex to answer immediately with a single gather information roll. For instance, you might want to discover a time when a particular artifact disappears from the historical record. In these cases, the research becomes a **downtime action**, which can be worked on when **killing time**.
+
+When you begin the investigation create a progress clock. Usually this will be a single 4 segment clock for simple questions, but the more detailed the question and the more hard to determine the information required the larger the clock. It is even possible some investigations may require multiple clocks.
+
+Progressing the clock is a **downtime action** covered in the **downtime** section.
+
+The player may choose to increase the size of the clock to obtain either a greater effect once it is complete or extra dice on the final fortune roll. Every additional 2 segments added to the clock at the start gives either an additional +1 effect or +1d at the end.
+
+## Examples & Questions
+
+TO BE FILLED IN
+
+---
+
+### GATHER INFORMATION
+
+*Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level.*
+
+**Great**: You get exceptional details. The information is complete and follow-up questions may expand into related areas or reveal more than you hoped for.
+
+**Standard**: You get good details. Clarifying and follow-up questions are possible.
+
+**Limited**: You get incomplete or partial information. More information gathering will be needed to get all the answers.
+
+---
+
+## Active Opposition
+
+Sometimes a character is trying to acquire information and another jumper is actively working to oppose the attempt. In these cases the GM should always require a fortune roll at the end of the investigation:
+
+---
+
+### OPPOSED INVESTIGATION ROLL
+
+&#x23E3; &nbsp; *1d* for each **Trait** rating.
+
+&#x2295; &nbsp; *+1d* or more if extra segments were added to the clock to give an advantage
+
+&#x2295; &nbsp; *+1d* if the information is particular hard to conceal
+
+&#x2296; &nbsp; *-1d* if the information is particularly easy to conceal
+
+&#x2296; &nbsp; *-1d* per Rank of the opposition
+
+&#x2296; &nbsp; *-1d* if the opposition is particularly skilled at disinformation
+
+* **Critical**: Not only is the correct information obtained, but also information on *how* and *when* the opposition spread disinformation
+* **6**: The correct information is identified
+* **4/5**: Some correct information is identified, but some misinformation is mixed in
+* **1-3**: The oppositions misinformation is believed as fact
+
+---
+
+
+## Tracking a Time Jumper
+
+One of the most common uses of the investigation rules is to track a time jumper in a known region of space-time. In this case a 4 segment clock will provide **Limitted effect**. If the time jumper is actively attempting to hide use the opposed investigation role rules above. 
+
+In particular if the jumper spends an extended period killing time in the targeted region or generated any heat whilst there then the information is considered particularly hard to conceal. On the other hand if the jumper goes to ground in their own safehouse in the region then that makes the information particularly easy to conceal.
+
