@@ -793,3 +793,200 @@ One of the most common uses of the investigation rules is to track a time jumper
 
 In particular if the jumper spends an extended period killing time in the targeted region or generated any heat whilst there then the information is considered particularly hard to conceal. On the other hand if the jumper goes to ground in their own safehouse in the region then that makes the information particularly easy to conceal.
 
+
+# Character creation
+
+## Choose a Playbook
+
+The playbooks are shown in the next section in detail, here's a simple summary:
+
+* **Artisan**: A creator and procurer of items and devices
+* **Diplomat**: A persuasive speaker at home in social situations
+* **Initiate**: A strange being who knows things others don't
+* **Trickster**: A scoundrel who gets into trouble whenever they are
+* **Oracle**: A master of information flow and control
+* **Warrior**: A fighter of battles and specialist in physical force
+
+## Choose your region of origin
+
+Choose the region of space-time where your character originated. Usually this will be roughly contemporary with the region in which the circle is based, but that's not mandatory. Characters from far ahead or behind are also possible, and most playbooks have some options for designing such characters. The Initiate in particular is unlikely to originate from the modern era.
+
+## Assign four action dots
+
+Your playbook begins with three action dots already placed. You get to add four more dots (so you'll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise).
+
+## Choose a special ability
+
+Take a look at the special abilities for your playbook and choose one. If you can't decide which one to pick, go with the first one on the list—it's placed there as a good default choice.
+
+### Special Armor
+
+Some special abilities refer to your **special armor**. Each character sheet has a set of three boxes to track usage of armor (standard, heavy, and special). If you have any abilities that use your special armor, tick its box when you activate one of them. If you don't have any special abilities that use special armor, then you can't use that armor box at all.
+
+## Choose one close friend and one rival
+
+Each playbook has a list of notable jumper NPCs that your character knows. Choose one from the list who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then choose another NPC on the list who's your rival or enemy. Mark the downward-pointing triangle next to their name.
+
+## Choose your support
+
+Your support is a place and time at which you have a normal linnear life. Spending time in that life living like other people do will help you stave off **alienation** and heal from some forms of **harm**. Each playbook has some examples of reasonable supports for the character, although you can come up with others. The main important thing is that:
+
+1. Your support *must* be a non-jumper life
+2. Your support *must* be located in a particular region of space-time, it can't be something you can access wherever you are
+3. Your support *must* include some NPC or NPCs who will notice and cause complications if you suddenly turn up years older after only a day away
+
+## Record your name and look
+
+Choose a name for your character. Record a few evocative words that describe your character's look.
+
+## Character creation summary
+
+@TODO style dropcaps.
+
+**1** **Choose a playbook.** Your playbook represents your character's reputation, their special abilities, and how they advance.
+
+**2** **Choose a region.** Detail your choice with a note about your origin.
+
+**3** **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your circle, you can advance actions up to rating 4.)*
+
+**4** **Choose a special ability.** They're in the gray column in the middle of the character sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
+
+**5** **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+
+**6** **Choose your support.** Pick your linnear life, and who from it matters to you.
+
+**7** **Record your name and look.** Choose a name and jot down a few words to describe your look.
+
+# Character Playbooks
+
+## Artisan
+
+A creator and procurer of items and devices
+
+## Diplomat
+
+A persuasive speaker at home in social situations
+
+## Initiate
+
+A strange being who knows things others don't
+
+## Trickster
+
+A scoundrel who gets into trouble whenever they are
+
+## Oracle
+
+A master of information flow and control
+
+## Warrior
+
+A fighter of battles and specialist in physical force
+
+# Circle Creation
+
+## Choose a Fraternal Order
+
+There are a number of fraternal orders which exist within the society to specialise in particular activities considered beneficial to all jumpers. The following is not an exclusive list, but covers the most major ones which PCs might wish to be affiliated with:
+
+* **Curators**: track and manage historically important items, often saving them from desctruction and keeping them in their bases like cross-temporal museums
+* **Couriers**: Specialise in carrying people, things, and information to when they need to be
+* **Hunters**: Seek out and hunt rogue jumpers and the incursions by time travellers from outside the purvew of the society
+* **Surgeons**: Specialise in the medical complications of time travel, especially the spread of disease between eras due to careless activity
+* **Continuity**: Step in when an historical fact needs to be maintained, even if it means making it happen themselves
+
+## Establish your region
+
+Every circle operates out of a main circle house, a base from which escapades can be planned and activities can be managed. By default every circle house has multiple rooms with locking doors which can be used to ensure that the residents don't cross their own timelines more than is absolutely necessary. A circle house also has a duration as well as a location: it is established at a particular moment, and disestablished at another. In some cases the disestablishment is more of a formality -- handing over to a different circle which uses the same building in a different time period. Other times it means fully cleaning and stripping the facility of everything related to jumping or even arranging for it to be destroyed outright.
+
+Decomissioning their own circle-house is a task which might be given to members of the circle early in their career. Establishing it to begin with is much more likely to be handled exclusively by late-career high-rank versions of the members.
+
+As a result the state of the circle house when the characters are first inducted into it may well give them clues about their own future escapades. This can be used to provide foreshaddowing, or to set up **destiny** which must be fulfilled.
+
+As well as the circle house itself the circle will also be responsible for a surrounding region of space-time. Jumpers arriving in that region without prior arrangement are the circle's responsibility to deal with. Usually these will be simply travellers passing through eager to get news and somewhere to recharge safely. Other times they may be something else: rogues, sollipsists, or even intruders from beyond history. Sometimes they may even be potential new circle members who for whatever reason didn't get along with the circle they were originally inducted into.
+
+> The typical region of control for a circle in industrial times is a single named settlement such as a small town and surrounding country, or a neighbourhood in a larger city, and usually covering only a period of around 50 years. Some circles may have larger or smaller areas or durations of control depending on how historically dense this part of space-time is. 
+
+### Establish your neighbours
+
+It's worth jotting down some details about neighbouring circles you may interact with. These can be adjacent in time or space, or both.
+
+* Who was in your circle-house before you? Or was it created or adapted from a normal building at the start of your tenure? If so where was the circle house for the previous circle that covered this area located, and why wasn't it continued?
+* Who will be in your circle-house after you? Or will it be destroyed or decomissioned? If so where will the new circle house be located, and why will it be moved?
+* Which circles cover adjacent regions in space? Do they have the same duration as you, or do they partially overlap?
+
+For each neighbour circle it's fine to just think about which Fraternal Order they pledge to, and whether you are friendly or hostile to them.
+
+> THERE'S CURRENTLY NO FACTION GAME HERE. WE COULD PROBABLY MAKE ONE, BUT COMPETITION WITH ADJACENT CIRCLES ISN'T REALLY THE FOCUS.
+
+## Choose a special ability
+
+Take a look at the special abilities for your circle and choose one. If you can't decide which one to pick, go with the first one on the list—it's placed there as a good default choice. It's important to pick a special ability that everyone is excited about.
+
+Just like picking the Fraternal order type and region choosing a special ability is another chance to focus the game down to a more specific range of possibilities. That's a lot to work with, and it helps get the game going in a strong direction from the very beginning.
+
+## Assign circle upgrades
+
+An upgrade is a valuable asset that helps the circle in some way. Each circle type has two pre-selected **upgrades** that suit that circle.
+
+You get to add **two additional upgrades** to your new circle (so you'll have a total of four upgrades when you start). You can choose from the specific upgrades available to your Fraternal order or the general upgrades on the circle sheet.
+
+## Choose a Mentor
+
+Every circle has a mentor, a higher rank individual who is managing this circle for the fraternal order. One of their main responsibilities is making sure that low rank jumpers learn and become higher rank jumpers, so they will often be unwilling to intervene in escapades, especially if they already know the outcome in their own personal past. Each Fraternal Order has a list of four potential mentors, choose the one you feel works best for your circle.
+
+There are a number of circle upgrades which can interact with and alter your mentor, either granting additional capabilities to them or making them more likely to intervene in specific situations. In particular note the **Destined Mentor** upgrade, which allows you to select one of the PCs and write becoming the mentor into their destiny.
+
+**Unless an upgrade specified otherwise all mentors are Rank 3 jumpers and will not intervene in escapades other than to help transport the circle to and from the region where the escapade is expected to happen**
+
+## Circle creation summary
+
+@TODO dropcaps
+
+**1** **Choose a circle type.** The circle type determines the group's purpose, their special abilities, and which Fraternal Order they are pledged to.
+
+You begin with **2 Graces**.
+
+**2** **Choose a region.** Choose your region of control, including spatial and temporal extents, and the identity of your neighbours
+
+**3** **Choose a special ability.** They're in the gray column in the middle of the crew sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
+
+**4** **Assign circle upgrades.** Your circle has two upgrades pre-selected. Choose two more.
+
+**5** **Choose a Mentor.** Mark the one who is your mentor. The others listed will become the mentors of neighbouring circles.
+
+# Circle Playbooks
+
+## Curators
+
+track and manage historically important items, often saving them from desctruction and keeping them in their bases like cross-temporal museums
+
+## Couriers
+
+Specialise in carrying people, things, and information to when they need to be
+
+## Hunters
+
+Seek out and hunt rogue jumpers and the incursions by time travellers from outside the purvew of the society
+
+## Surgeons
+
+Specialise in the medical complications of time travel, especially the spread of disease between eras due to careless activity
+
+## Continuity
+
+Step in when an historical fact needs to be maintained, even if it means making it happen themselves
+
+
+# Escapades
+
+TO BE DETAILED
+
+
+# Heat
+
+TO BE DETAILED
+
+# Downtime
+
+TO BE DETAILED
