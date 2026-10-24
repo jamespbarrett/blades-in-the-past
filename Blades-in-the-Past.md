@@ -939,6 +939,12 @@ There are a number of circle upgrades which can interact with and alter your men
 
 **Unless an upgrade specified otherwise all mentors are Rank 3 jumpers and will not intervene in escapades other than to help transport the circle to and from the region where the escapade is expected to happen**
 
+## Look at the circle's destiny
+
+Every circle sheet contains a destiny track. The events on this destiny track can be seen evidently by the PCs: the effects of these on the circle house are visible from the first time they enter the house. However someone is going to have to take the actions needed to ensure these things happen as they are destined, and that task will fall upon the PCs at some point in their career.
+
+The track also indicates what the maximum rank any character in the circle may have is. The actual process for rising in rank is covered in the **downtime actions** section.
+
 ## Circle creation summary
 
 @TODO dropcaps
