@@ -983,16 +983,164 @@ Specialise in the medical complications of time travel, especially the spread of
 
 Step in when an historical fact needs to be maintained, even if it means making it happen themselves
 
-
 # Escapades
 
-TO BE DETAILED
+An Escapade is a single operation with a particular goal. Generally speaking each escapade will involve one of the following goals:
+
+* Achieve a goal marked in the circle's **destiny**
+* Reduce **heat**
+* Reduce **paradox**
+* Gain **graces**
+* Defend against an **attack**
+
+Other options are possible, if discussed with the GM and supported in the fiction, but these represent the most common reasons to engage in an escapade.
+
+> Eg. A circle of Curators decide to go after the next entry on their circle's destiny. There's been a Pompeian freize on display in the circle house for as long as anyone has been there, and now it's time to actually acquire it. A famous freize which was destroyed in the fire which ravaged the national museum of Brazil in 2018 ...
+
+An escapade can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* An escapade doesn't need to fill one session of play every time. Let it be however long it is.
+
+The PCs can set up a new escapade by choosing a target (from their destiny, for example), by approaching a contact and asking what favours need doing, by identifying something they specifically need to do, or by being contacted by an NPC who needs them to do something.
 
 
-# Heat
+## Planning, preperation, and engagement
 
-TO BE DETAILED
+The circle undoubtedly spend a lot of their personal time planning before a big escapade, but the players don't need to. For the purposes of play the planning process is elided over and simplified into the following steps:
+
+First, pick a general style of plan and pick a relevent detail:
+* Assault - Do violence to a target. *Detail: The point of attack.*
+* Deception - Lure, trick, or manipulate. *Detail: The method of deception.*
+* Stealth - Trespass unseen. *Detail: The point of infiltration.*
+* Uncanny - Engage a super-normal ability directly. *Detail: The method.*
+* Social - Negotiate, bargain, or persuade. *Detail: The social connection.*
+* Transport - Carry cargo or people through danger. *Detail: The moments for jumping and recharging along the way.*
+
+Next make an engagement roll, a kind of fortune roll which determines how far into the plan things have got before things start going wrong. Things always start going wrong, we wouldn't be playing it out if everything went according to plan.
+
+### The detail and the moment
+
+When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don't know the detail, you can **gather information** in some way to discover it. You also supply the *moment* at which the escapade is expected to take place. Sometimes this will be established by the target, other times the players will have some leeway in selecting it.
+
+### Preperation
+
+When an escapade begins declare the amount of planning which went in beforehand:
+
+* Light: 4 weeks
+* Medium: 8 weeks
+* Heavy: 12 weeks
+
+Not all PCs need to choose the same amount of prep. Mark this period in your logbooks but leave the details blank for now, leaving space to add details of what was done during this time later. Mark increases in age and alienation immediately, though, if appropriate.
+
+### Specify starting Rendezvous
+
+Before every escapade the circle can declare where their base of operations for this event will be. They can choose to declare up to three such **rendezvous** regions, one **in the past** one **in the present** and one **in the future**, all measured relative to **the moment**.
+
+All such rendezvous locations are subject to GM approval, and should be chosen to be within a single JP's worth of jump from **the moment** if possible. The players may declare which of their PCs are beginning the escapade in which **rendezvous**, and which are starting in **the moment**. At least one PC *must* start in **the moment**.
+
+> It will likely be useful to start setting up a timeline at this point. Take four note cards, label three with the rendezvous locations and one with the **moment**, and place them on the table. The *present* rendenzvous should be next to the **moment**, the *past* rendezvous should be below, and the *future* rendezvous above. Players can place tokens to indicate starting locations, and mark notes on the cards as they jump in and out.
+
+### Engagement Roll
+
+Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene at **the moment** as the circle starts the escapade and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply "get it right" each time, we use a dice roll instead. This is the **engagement roll**.
+
+The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
+
+#### Major Advantages / Disadvantages
+
+* Is this escapade particularly bold or daring? Take **+1d**. Is this escapade overly complex or contingent on many factors? Take **-1d**.
+* Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
+* If more PCs took **heavy prep** than **light prep** then take **-1d**. If more took **light prep** than **heavy prep** take **+1d**.
+* Are there any **other elements** that you want to consider? Maybe there's a situation in the region that makes the operation more or less tricky.
+
+The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, jumping into the middle of the museum; attempting to seduce the target at a party; transporting the artifact through another circle's region; etc.
+
+Don't make the engagement roll and then describe the PCs *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
+
+---
+
+### ENGAGEMENT ROLL
+
+&#x23E3; &nbsp; **1d** for sheer luck.
+
+&#x2295; &nbsp; **+1d** for each **Major Advantage**.
+
+&#x2296; &nbsp; **-1d** for each **Major Disadvantage**.
+
+* **Critical**: Exceptional result. *You've already overcome the first obstacle and you're in a controlled position for what's next.*
+* **6**: Good result. *You're in a controlled position when the action starts.*
+* **4/5**: Mixed result. *You're in a risky position when the action starts.*
+* **1-3**: Bad result. *You're in a desperate position when the action starts.*
+
+---
+
+#### Outcomes
+
+The outcome of the engagement roll determines the **position** for the PCs' initial actions when we cut to the score in progress. A **1-3** means a desperate position. A **4/5** is a risky position. A **6** yields a controlled position. And a **critical** carries the action beyond the initial obstacle, deeper into the action of the score.
+
+No matter how low-Rank or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It's designed this way so the planning process matters, but it doesn't call for lots of optimization or nitpicking. Even if you're reckless and just dive in and take your chances, you can't get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
+
+When you describe the situation after the roll, use the details of the target to paint a picture of the PCs' position. Use this opportunity to show how the PCs' enemies are dangerous and capable—don't characterize a bad engagement roll as a failure by the PCs, or they won't trust the technique in the future. Sure, things are starting out desperate here, but you're just the type of characters who are daring enough to take it on. Let's get to it.
+
+#### How long does it last?
+
+The engagement roll determines the starting position for the PCs' actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the escapade. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn't have any impact after that.
+
+### Time Travel during Escapades
+
+Time travel during escapades mostly follows the same rules as already detailed earlier. However there are a few things which need drawing attention to:
+
+#### Using Prep Time
+
+A character can, at any point, "flash back" to prep time. Go back to the log book and mark what some of your allocated prep time was used for: where, when, and what you were doing are important. This is essentially **killing time**, and follows the usual rules for that (although you will already have recorded any age gains, so you can skip that, but remember to include alienation if apropriate). As always with killing time this permits the taking of **downtime actions** which is the main use for this mechanic.
+
+Mark off this prep time when you use it up, you have only a limited amount.
+
+#### Information availability and narrative causality
+
+Characters may not act on information they do not have. A character cannot respond to actions that happened further forward unless the information is carried to them by a jumper. A character can respond to events that happened further back if they have a way of getting that information. A quick gather information roll may be needed. 
+
+Conversely actions taken cannot have consequences further back unless someone jumps back to carry the effects, but actions taken can have consequences further forward. A character may perform a *setup* for another character who will act further forward, but only if they know.
+
+A common tactic is to have characters in the **future** rendezvous gathering information, and characters jumping back to the **past rendezvous** with this information so that actions can be taken there to affect the characters in between.
+
+#### Set up
+
+When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1d**, **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action. Each action may only gain a maximum of 1 extra die from setup, though it may still gain the other benefits.
+
+As stated above the setup does not need to be performed in the same moment as the assisted action, in fact it is often most effective to use it from further back than the action being set up.
+
+#### Spending paradox
+
+Remember: There are multiple actions which permit a character to spend paradox to affect the outcome of an action. These are a core part of the mechanics of the game, and using them should be a good way to achieve goals. The only downside is acruing destiny which you will have to work off to eliminate your paradox. But that shouldn't be hard!
+
+#### Taking Paradox
+
+Sometimes another jumper takes an action which causes a character's already taken actions to become apparently impossible. This can be done accidentally or intentionally. For accidental paradoxing of one PC by another the GM has final call, but should usually award a single point of paradox and require an entry in destiny to fix the constradiction somehow.
+
+Intentional inflicting of paradox due to an attack from a rival or enemy jumper is a *complication* which can be levied as a result of any roll where a consequence is required. Usually this will be a single point of paradox, occasionally more.
+
+However, unlike most points of paradox the original source, and hence the thing which needs to be done to fix it, *may not be immediately clear to the player*. The GM should decide, but keep it secret. Identifying the cause, and hence how to fix it will require gather information actions further forward than the event occurred (or using sources of information such as other time travellers which can ignore that restriction). Often it will involve trying to track another jumper.
+
+Any time a PC takes paradox as a result of an active act from another character, PC or NPC, *all PCs and NPC jumpers* involved in the current escapade immediately become **entangled**.
+
+#### Causing paradox
+
+Sometimes a PC will decide to intentionally cause paradox to an opponent. To do this they need to locate themselves in a moment where they can take action which will render the target's known past impossible. They should take care that this doesn't directly impact their own known past in the process: accidentally doxing yourself when trying to take out an enemy is embarassing.
+
+When this happens the PC makes an apropriate action roll for the action which creates the paradox, and the GM starts a paradox progress clock for the target if one isn't already active, usually 6 segments, though the GM can decide to make it larger or smaller for some targets. Each succesfull attempt to cause paradox on the target adds ticks to the clock. Targets may well immediately attempt to counter-attack applying paradox to the PCs, or they may immediately take corrective action to remove segments from their paradox clock, either way these are complications PCs will need to deal with.
+
+When the clock is filled the target will receive a Distortion and usually attempt to flee from the current escapade entirely.
+
+PCs may pursue a fleeing jumper using gather information and continue to attack them. If they do start another paradox clock. Each full paradox clock the jumper takes will cause them to suffer distortion, which will give the PCs advantages in future actions pertaining to them.
+
+Of course, successfully attacking a target with paradox causes all PCs and NPC jumpers in the current escapade to become entangled.
 
 # Downtime
+
+## Downtime Actions
+
+TO BE DETAILED
+
+## Heat
 
 TO BE DETAILED
