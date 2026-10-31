@@ -1208,12 +1208,118 @@ Between escapades is a great opportunity to Kill Time and get some Downtime acti
 
 # Downtime
 
-Whenever 
+Whenever a character Kills Time they may choose to take **downtime actions** during the gap. Each downtime actions takes a single **week* to accomplish, though in many cases a long term project clock is involved and will require multiple week-long actions to resolve.
+
+## Long-term Project Clocks
+
+Most downtime actions instruct you to "start or continue a long-term project clock" this is a clock which you draw to represent your progress towards achieving the goal. The action will specify the number of segments on the clock, and the result of completing it. There are some standard rules for long-term project clocks which are common to all actions, however:
+
+* Each week-long action spent on progressing the clock requires a fortune roll, and will sometimes specify the traits used to create the pool. The result determines how many segments to tick:
+  * **1-3**: **1 segment**
+  * **4-5**: **2 segments**
+  * **6**: **3 segments**
+* If your support is assisting with the project you get *+1 die* on the roll.
+* You may have multiple long-term project clocks open at once, but there is a penalty: One long-term project clock is always your *current* project. If you try to take actions to start or progress a different clock whilst your current project is still open then you lose **half** of the progress on your current project (round up) and the new project becomes your current project.
+* If the downtime action uses an action value then the PC must have a relevent skill to be able to use it. Otherwise the fortune roll is based on a rating of 1 or their actual rating, whichever is *lower*.
 
 ## Downtime Actions
 
-TO BE DETAILED
+### Acquire Asset
+
+Gain temporary use of an item, service, etc... which you would normally not have access to. Start or continue a long-term project clock. Number of segments depends on the complexity of the asset:
+
+| Asset                                             | Segments |
+|---------------------------------------------------|----------|
+| Common item or service, easily acquired           | 0        |
+| Uncommon item, unusual service                    | 2        |
+| Restricted item, complex service                  | 4        |
+| Something highly valuable or highly restricted    | 6        |
+| Something absurdly valuable or totally restricted | 8        |
+
+If you are searching in a region of space-time which you are not easily familiar with add +2 segments.
+
+Items and services always have a region of space-time in which they can be most easily acquired, if you are taking this action at other times you may require additional work:
+
+| Time                              | Segments     |
+|-----------------------------------|--------------|
+| Before introduction               | Unavailable  |
+| Early in period of use            | +2 segments  |
+| Main period of use                | no modified  |
+| 1+ decade after period of use     | +2 segments  |
+| 2+ decades after period of use    | +4 segments  |
+| 5+ decades after period of use    | +6 segments  |
+| 1+ centuries after period of use  | +8 segments  |
+| 2+ centuries after period of use  | +10 segments |
+| 5+ centuries after period of use  | +12 segments |
+
+The roll for this action is based on any appropriate action values.
+
+One very common service time travellers try to acquire is to find a teacher for an unusual skill. Teaching is usually a common service in most times and places, though the nature of the skill may increase that if it is particularly rare or restricted (eg. military skills, obscure skills). Finding teachers for out of date skills can take longer. Often it's easier to jump back to when they were widely used and find a teacher then.
+
+### Recover
+
+Heal harms. Start or progress a long-term project clock with four segments. Each time the clock is filled reduce one harm by one level, or eliminate one long-term harm. The attribute used for this roll is the **tinker** of the healer supervising the character. If no healer is working on the character the pool starts at 0.
+
+### Fulfill Destiny
+
+Many small destiny items can be fulfilled by taking downtime actions. In general any paradox or heat gain of only 1 point can be repaired using a 2 segment downtime action and gains of 2 points can be repaired using a 4 segment clock, provided the character is located in the correct moment. This can be used for **double features** and other actions during an escapade, but cannot be done if the character risks becoming **entangled** by entering the region. That requires roleplayed actions to fix.
+
+Paradox or heat gains of 3+ points for a single destiny item cannot usually be repaired this way, and require direct actions or even an entire escapade.
+
+### Acquire Skills
+
+Skills may be acquired using downtime actions. These are permanently added to the character sheet when acquired. 
+
+Start or progress a long-term project clock. Learning an easy skill requires a single 12 segment clock provided a teacher is available, medium skills require 2 clocks, and hard ones 3. For readily available skills in the region where the action is taken it can be assumed a teacher is available. For rarer skills a teacher must be found using **Acquire Asset** first. A teacher may know multiple skills, and the same teacher can be returned to to learn additional skills as needed.
+
+### Reconnect with Support
+
+Visit your support and spend time living your flat life. This action does not require a long-term project clock, instead each time you take this action for a week roll dice equal to your *lowest* attribute rating. Remove alienation equal to your highest die result. This does not interrupt your current long-term project. You can only take this action when in the region of space-time where your support is located.
+
+*Maintaining multiple supports can be strenuous. Unless a character has a special ability or upgrade which says otherwise the amount of alienation cleared by reconnecting with a support is reduced by 1 if the character has two supports and by 2 if the character has three.*
+
+### Gain a new Support
+
+You may spend downtime actions connecting with a new support in a different region of space-time where you do not have a support. This is a long-term project requiring a 12 segment clock. On completion you gain a new support. You still take **alienation** for the time spent taking this action.
+
+**No character may maintain more than 3 supports at once. Adding a fourth removes one of the others, usually the one the character has gone longest in their personal timeline without reconnecting with**
+
+### Gain Rank
+
+* A character must be at a friendly circle house to take this action.
+* A character must be under the supervision of a friendly character with Rank at least 4 and at least one greater than their own
+* A character must have access to certain future-tech usually only available to rank 4 **Surgeons**
+* A character must have a lower rank than their circle's "maximum rank" trait.
+* A character must have **0 distortion** and **0 paradox**
+* The circle must have **0 exposed**.
+
+This action takes a single week, it does not involve a clock. It does interrupt the current long-term project. When it is complete the character now has a higher rank.
+
+If this would bring the character up to the same Rank as the circle's **Mentor** then the circle has two options:
+
+* The circle no longer has a **Mentor**. The former Mentor becomes a simple contact and NPC member of the circle. Responsibility is handed over to the highest ranked PCs in the circle.
+* The circle may spend Graces equal to the Mentor's current Rank to raise the Rank of their Mentor by one.
+
+Certain Mentor upgrades might alter this (eg. if the Mentor is a future self of one of the PCs).
+
+### Other actions
+
+Many playbooks and circle types include special abilities and upgrades which add extra downtime actions the characters may take to achieve other goals.
 
 ## Alienation
 
-TO BE DETAILED
+Time travellers can easily become unrooted from their flat lives. For young and inexperienced jumpers this is particularly risky. Whenever you kill time in a region where you have no access to your support you risk gaining alienation. This happens regardless of why you are killing time, or if you are taking any additional downtime actions.
+
+At the end of a period of killing time spent away from support roll a fortune roll with a number of dice equal to the number of full weeks you spent away from your support, the alienation gain depends on the result:
+
+**1-3**: No effect
+**4-5**: +1 alienation
+**6**: +2 alienation
+
+Alienation can be removed by taking the **reconnect with support** downtime action.
+
+When alienation reaches 9 a character sets their alienation back to 0 and loses access to one of their supports. If a character has no supports to lose access to then they take a level 2 Harm which cannot be healed except under the supervision of a support. This harm represents mental stress and problems caused by disconnection from normal human life.
+
+Most higher rank characters have access to upgrades which make dealing with alienation easier.
+
+
