@@ -1135,12 +1135,85 @@ PCs may pursue a fleeing jumper using gather information and continue to attack 
 
 Of course, successfully attacking a target with paradox causes all PCs and NPC jumpers in the current escapade to become entangled.
 
+## The end of an Escapade
+
+After the circle finishes an escapade take stock of what has changed due to the operation. You may be able to make changes to a character or to the circle sheet, eg. tick off destiny, reduce heat, increase Graces, or otherwise resolve the goals of the mission.
+
+### Graces
+
+If you did anything during an escapade which was beneficial to another circle of time travellers you may receive Graces as a result. 
+
+* **0 Graces**: You didn't do anything specific to help another circle during the escapade.
+* **1 Grace**: You did a minor favour for someone in the process of an escapade.
+* **2 Graces**: You did a larger or more complex favour for someone in the process of an escapade.
+* **3 Graces**: You did a huge or extremely complex favour for someone in the process of an escapade.
+
+In addition, if the escapade itself was taken on specifically as a favour to another time traveller then you recieve an additional **2 Graces** in addition to the normal Graces receivced.
+
+This means that the overall range of reward from a job is between 0 and 5 Graces. It is possible to get 4 Graces if you take on a very simple job as a favour for another circle, but then do nothing extra beyond the absolute minimum.
+
+Remember that Graces can be spent to get assistance from another time traveller at any point by any player, they are a shared resource.
+
+### Heat
+
+The timeline is full of non-jumpers who you need to keep the existence of time travel a secret from. Revealing the secret can lead to reprecussions down the line, and if they aren't cleaned up by you they will be cleaned up by someone, which can lead to animosity from your fellow jumpers, especially your neighbours further forward. At the end of each escapade you may accumulate heat depending on how well you covered your tracks:
+
+* **0 heat**: No flat witnesses, no evidence survives.
+* **2 heat**: Some people saw something weird, but they aren't likely to be believed; or some evidence was left behind but it could have mundane explanations.
+* **4 heat**: Witnesses and evidence survive, or disappeared in ways that just raise more questions. At this level maybe you screwed up the expected flow of history in a way someone is going to have to fix down the line.
+* **6 heat**: Total disregard for secrecy, leaving major witnesses to time travel who could blow the secret decades or centuries early. This is going to need some serious cleanup.
+
+If your actions killed someone who history says lived add an additional **+2 heat**. You may well also acrue paradox from that. Those kinds of things need fixing.
+
+Much like with paradox when you accumulate heat note down in your circle's destiny the actions needed to clear that heat. To actually remove it you will need to take actions to repair or reduce the harm.
+
+When your **heat** reaches *9* you get a level of **exposed** and clear your heat. The destiny you originally specified for clearing this heat is still relevent, but no longer allows you to clear heat. Instead you will need to fulfill *all* of the objectives in order to fully clear the level. This is likely to require an entire escapade, not simple downtime actions.
+
+Being **exposed** is a very bad thing. Someone with the power to do something knows about time travel, and they shouldn't. You need to fix it, and the knock-on effects may be large enough you need help doing it. Time to call in favours from other circles (by spending Graces) and begin planning how to make things right.
+
+Having levels of exposed contribute to your **fallout** roll.
+
+### Fallout
+
+After each escapade roll a number of dice equal to your circle's level of **exposed** (as usual if asked to roll 0 dice you roll 2 and take the lower result), then look up the result on the chart below based on the current **heat** level:
+
+---
+
+| RESULT | **Heat** **0-3**                   | **Heat** **4-5**            | **Heat** **6**                  |
+| :----: | :--------------------------------- | :-------------------------- | :------------------------------ |
+|  1-3   | Collatoral Damage or Support Suspicion | Collatoral Damage or Witness | Flat Investigation or Anachronism             |
+|  4-5   | Flat Touble or Unclear Destiny             | Reprisals or Unclear Destiny   | Solipsist Notice or Interference |
+|   6    | Cooperation                        | Interference               | Hunt                          |
+
+---
+
+These results have the following meaning:
+* **Anachronism**: Without realising it you've introduced something anachronistic into a time period. Take +3 **paradox** for one PC of your choice. This can be removed by fixing the screw-up. You can fix this yourself, pay 2 Graces to get someone else to clean up your mess, or leave it be for now and take +3 **heat**. The heat can only be removed by the same mechanism as fixing the paradox.
+* **Collatoral Damage**: One of your seemingly innocuous actions has messed up something in the timeline of another society jumper. You either need to put it right or find a way to pay them off, perhaps with a favour. If you don't they may start trying to take reprisals against you.
+* **Cooperation**: A friendly or better connected time traveller of Rank one greater than your circle's current maximum rank asks you for a favour you can't easily refuse. Your next escapade will be of the GM's choosing based on what they ask for and will likely be complex. You can avoid this by paying 1 Grace per Rank of the requestor.
+* **Flat Investigation**: A group of non-jumper investigators from some powerful flat organisation have opened a file on your activity. They are going to cause additional complications for you in any escapade which occurs in their region of influence and further forward than the start of their investigation. If you have jumper enemies they may even provide information to the flat investigation helping them to be in just the right moment to mess with your operations.
+* **Flat Trouble**: Something goes wrong in the life of one of the PCs. Usually relating to their support. You may have to step in to fix this in order to avoid the character in question taking **alientation**.
+* **Hunt**: A higher ranked jumper has finally had enough of you. Your next escapade will be defending against an attack by a well equipped higher Rank Hunter circle with access to future-tech specifically suited for taking out rogue jumpers. You need to evade them and somehow leverage your favours with other high rank jumpers to get them to back off. This will cost at the very least A number of Graces equal to your **exposed** level.
+* **Interference**: Another circle of jumpers steps in and directly interferes with the next of your destined escapades from your circle sheet. Making achieving it seem impossible. You really have no choice but to begin an escapade to fix this, otherwise you risk paradoxing your entire circle. If you fail everyone in the circles takes paradox equal to the max rank of the group interfering.
+* **Reprisals**: Some society jumper takes direct action against you. This may be an attack, but it could also just be interference in something you would usually do. Your call on how to resolve it.
+* **Solipsist Notice**: A Rogue jumper with no regard for historical integrity has come gunning for you. Maybe because of something you did, maybe because of something you will do, maybe just because you've made enough noise they know when you are. Your next escapade is likely to be defending against an attack by a motivated Solipsis of at least equal rank to your highest ranking PC.
+* **Support Suspicion**: One PC's support NPC begins to grow suspcious. This could lead to heat and exposure. Make a fortune roll:  **1-3**: **+2 heat**, **4/5**: **+2 alienation**, **6**: **No effect**. As usual you can avoid this with paradox or a Grace.
+* **Unclear Destiny**: Somehow one or more of the circle cross their own timelines and see evidence of a bad outcome in their personal futures. Add this to the destiny for every character affected, and assess paradox if they fail to meet their destiny as usual.
+* **Witness**: There was an additional witness you didn't see to one of your jumps. Make a fortune roll: **1-3**: **+2 heat**; **4-5**: **+1 heat**; **6**: **+0 heat**. You can avoid this heat gain with paradox or Graces as usual. If you take heat it can only be removed by dealing with the witness.
+
+## Killing time between Escapades
+
+Between escapades is a great opportunity to Kill Time and get some Downtime actions done. But remember the cost in alienation and age ...
+
+
 # Downtime
+
+Whenever 
 
 ## Downtime Actions
 
 TO BE DETAILED
 
-## Heat
+## Alienation
 
 TO BE DETAILED
